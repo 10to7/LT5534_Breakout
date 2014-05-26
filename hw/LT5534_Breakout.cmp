@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-19 BZR 4756)-product date = Tue 27 May 2014 00:18:21 BST
+
+BeginCmp
+TimeStamp = /5383C654;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5383C640;
+Reference = C2;
+ValeurCmp = 100pF;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5383C714;
+Reference = C3;
+ValeurCmp = 1nF;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5383C5CA;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5383C728;
+Reference = R1;
+ValeurCmp = 47 Ohm;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5383C526;
+Reference = U1;
+ValeurCmp = LT5534;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5383C843;
+Reference = U2;
+ValeurCmp = Coax;
+IdModule  = ;
+EndCmp
+
+EndListe
